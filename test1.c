@@ -2,6 +2,6 @@
 
 int main()
 {
-	int i=22;
+	printf("Hello_world(test1.c)\n");
 	return 0;
 }
